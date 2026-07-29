@@ -6,7 +6,6 @@ class Gridclick < Formula
   license "MIT"
 
   depends_on :macos => :sonoma    # macOS 14+
-  depends_on :xcode => "15.0"    # needs Swift 5.9+
 
   def install
     # Build the release binary
