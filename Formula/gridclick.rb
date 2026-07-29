@@ -2,7 +2,7 @@ class Gridclick < Formula
   desc "Keyboard-driven mouse navigation for macOS"
   homepage "https://github.com/shubham-021/GridClick"
   url "https://github.com/shubham-021/GridClick/archive/refs/tags/v1.3.0.tar.gz"
-  sha256 "89127fc1039b1564fa94a80f44f16ebd08c597d1026edfb33e2f219ec5fb37db"
+  sha256 "5c58ca7f3fc857ccbef8501cb2fa699cb59749a52b88de504791297305d1616e"
   license "MIT"
 
   depends_on :macos => :sonoma    # macOS 14+
